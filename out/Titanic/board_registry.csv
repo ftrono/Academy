@@ -1,21 +1,14 @@
 Surname,Name,Sex,Age,Pclass,Embarked
 Abbing,Mr. Anthony,Male,42.0,Third Class,S
-Abbott,Master. Eugene Joseph,Male,13.0,Third Class,S
 Abbott,Mr. Rossmore Edward,Male,16.0,Third Class,S
 Abbott,Mrs. Stanton (Rosa Hunt),Female,35.0,Third Class,S
-Abelseth,Miss. Karen Marie,Female,16.0,Third Class,S
-Abelseth,Mr. Olaus Jorgensen,Male,25.0,Third Class,S
 Abelson,Mr. Samuel,Male,30.0,Second Class,C
 Abelson,Mrs. Samuel (Hannah Wizosky),Female,28.0,Second Class,C
-Abrahamsson,Mr. Abraham August Johannes,Male,20.0,Third Class,S
-Abrahim,Mrs. Joseph (Sophie Halaut Easu),Female,18.0,Third Class,C
 Adahl,Mr. Mauritz Nils Martin,Male,30.0,Third Class,S
 Adams,Mr. John,Male,26.0,Third Class,S
 Ahlin,Mrs. Johan (Johanna Persdotter Larsson),Female,40.0,Third Class,S
-Aks,Master. Philip Frank,Male,0.83,Third Class,S
 Aks,Mrs. Sam (Leah Rosen),Female,18.0,Third Class,S
 Albimona,Mr. Nassef Cassem,Male,26.0,Third Class,C
-Aldworth,Mr. Charles Augustus,Male,30.0,Second Class,S
 Alexander,Mr. William,Male,26.0,Third Class,S
 Alhomaki,Mr. Ilmari Rudolf,Male,20.0,Third Class,S
 Ali,Mr. Ahmed,Male,24.0,Third Class,S
@@ -24,67 +17,47 @@ Allen,Miss. Elisabeth Walton,Female,29.0,First Class,S
 Allen,Mr. William Henry,Male,35.0,Third Class,S
 Allison,Master. Hudson Trevor,Male,0.92,First Class,S
 Allison,Miss. Helen Loraine,Female,2.0,First Class,S
-Allison,Mr. Hudson Joshua Creighton,Male,30.0,First Class,S
 Allison,Mrs. Hudson J C (Bessie Waldo Daniels),Female,25.0,First Class,S
 Allum,Mr. Owen George,Male,18.0,Third Class,S
-Andersen,Mr. Albert Karvin,Male,32.0,Third Class,S
 Andersen-Jensen,Miss. Carla Christine Nielsine,Female,19.0,Third Class,S
 Anderson,Mr. Harry,Male,48.0,First Class,S
 Andersson,Master. Sigvard Harald Elias,Male,4.0,Third Class,S
 Andersson,Miss. Ebba Iris Alfrida,Female,6.0,Third Class,S
 Andersson,Miss. Ellis Anna Maria,Female,2.0,Third Class,S
 Andersson,Miss. Erna Alexandra,Female,17.0,Third Class,S
-Andersson,Miss. Ida Augusta Margareta,Female,38.0,Third Class,S
 Andersson,Miss. Ingeborg Constanzia,Female,9.0,Third Class,S
 Andersson,Miss. Sigrid Elisabeth,Female,11.0,Third Class,S
 Andersson,Mr. Anders Johan,Male,39.0,Third Class,S
 Andersson,"Mr. August Edvard (""Wennerstrom"")",Male,27.0,Third Class,S
-Andersson,Mr. Johan Samuel,Male,26.0,Third Class,S
 Andersson,Mrs. Anders Johan (Alfrida Konstantia Brogren),Female,39.0,Third Class,S
 Andreasson,Mr. Paul Edvin,Male,20.0,Third Class,S
 Andrew,Mr. Edgardo Samuel,Male,18.0,Second Class,S
-Andrew,Mr. Frank Thomas,Male,25.0,Second Class,S
 Andrews,Miss. Kornelia Theodosia,Female,63.0,First Class,S
 Andrews,Mr. Thomas Jr,Male,39.0,First Class,S
-Angheloff,Mr. Minko,Male,26.0,Third Class,S
-Angle,Mr. William A,Male,34.0,Second Class,S
 Angle,"Mrs. William A (Florence ""Mary"" Agnes Hughes)",Female,36.0,Second Class,S
 Appleton,Mrs. Edward Dale (Charlotte Lamson),Female,53.0,First Class,S
 Arnold-Franchi,Mr. Josef,Male,25.0,Third Class,S
 Arnold-Franchi,Mrs. Josef (Josefine Franchi),Female,18.0,Third Class,S
-Aronsson,Mr. Ernst Axel Algot,Male,24.0,Third Class,S
 Artagaveytia,Mr. Ramon,Male,71.0,First Class,C
-Ashby,Mr. John,Male,57.0,Second Class,S
 Asim,Mr. Adola,Male,35.0,Third Class,S
-Asplund,Master. Carl Edgar,Male,5.0,Third Class,S
 Asplund,Master. Clarence Gustaf Hugo,Male,9.0,Third Class,S
 Asplund,Master. Edvin Rojj Felix,Male,3.0,Third Class,S
-Asplund,Master. Filip Oscar,Male,13.0,Third Class,S
 Asplund,Miss. Lillian Gertrud,Female,5.0,Third Class,S
-Asplund,Mr. Carl Oscar Vilhelm Gustafsson,Male,40.0,Third Class,S
-Asplund,Mr. Johan Charles,Male,23.0,Third Class,S
 Asplund,Mrs. Carl Oscar (Selma Augusta Emilia Johansson),Female,38.0,Third Class,S
-Assaf Khalil,"Mrs. Mariana (Miriam"")""",Female,45.0,Third Class,C
-Assaf,Mr. Gerios,Male,21.0,Third Class,C
-Assam,Mr. Ali,Male,23.0,Third Class,S
-Astor,Col. John Jacob,Male,47.0,First Class,C
 Astor,Mrs. John Jacob (Madeleine Talmadge Force),Female,18.0,First Class,C
 Attalah,Miss. Malake,Female,17.0,Third Class,C
 Attalah,Mr. Sleiman,Male,30.0,Third Class,C
 Aubart,Mme. Leontine Pauline,Female,24.0,First Class,C
 Augustsson,Mr. Albert,Male,23.0,Third Class,S
 Ayoub,Miss. Banoura,Female,13.0,Third Class,C
-Baccos,Mr. Raffull,Male,20.0,Third Class,C
 Backstrom,Mr. Karl Alfred,Male,32.0,Third Class,S
 Backstrom,Mrs. Karl Alfred (Maria Mathilda Gustafsson),Female,33.0,Third Class,S
 Baclini,Miss. Eugenie,Female,0.75,Third Class,C
 Baclini,Miss. Helene Barbara,Female,0.75,Third Class,C
 Baclini,Miss. Marie Catherine,Female,5.0,Third Class,C
 Baclini,Mrs. Solomon (Latifa Qurban),Female,24.0,Third Class,C
-Badman,Miss. Emily Louisa,Female,18.0,Third Class,S
 Badt,Mr. Mohamed,Male,40.0,Third Class,C
 Bailey,Mr. Percy Andrew,Male,18.0,Second Class,S
-Baimbrigge,Mr. Charles Robert,Male,23.0,Second Class,S
 Balkic,Mr. Cerin,Male,26.0,Third Class,S
 Ball,Mrs. (Ada E Hall),Female,36.0,Second Class,S
 Banfield,Mr. Frederick James,Male,28.0,Second Class,S
@@ -93,7 +66,6 @@ Barbara,Miss. Saiide,Female,18.0,Third Class,C
 Barbara,Mrs. (Catherine David),Female,45.0,Third Class,C
 Barber,"Miss. Ellen ""Nellie""",Female,26.0,First Class,S
 Barkworth,Mr. Algernon Henry Wilson,Male,80.0,First Class,S
-Barry,Miss. Julia,Female,27.0,Third Class,Q
 Barton,Mr. David John,Male,22.0,Third Class,S
 Bateman,Rev. Robert James,Male,51.0,Second Class,S
 Baumann,Mr. John D,Male,,First Class,S
@@ -102,329 +74,205 @@ Baxter,Mrs. James (Helene DeLaudeniere Chaput),Female,50.0,First Class,C
 Bazzani,Miss. Albina,Female,32.0,First Class,C
 Beane,Mr. Edward,Male,32.0,Second Class,S
 Beane,Mrs. Edward (Ethel Clarke),Female,19.0,Second Class,S
-Beattie,Mr. Thomson,Male,36.0,First Class,C
-Beauchamp,Mr. Henry James,Male,28.0,Second Class,S
 Beavan,Mr. William Thomas,Male,19.0,Third Class,S
 Becker,Master. Richard F,Male,1.0,Second Class,S
 Becker,Miss. Marion Louise,Female,4.0,Second Class,S
-Becker,Miss. Ruth Elizabeth,Female,12.0,Second Class,S
-Becker,Mrs. Allen Oliver (Nellie E Baumgardner),Female,36.0,Second Class,S
 Beckwith,Mr. Richard Leonard,Male,37.0,First Class,S
 Beckwith,Mrs. Richard Leonard (Sallie Monypeny),Female,47.0,First Class,S
 Beesley,Mr. Lawrence,Male,34.0,Second Class,S
 Behr,Mr. Karl Howell,Male,26.0,First Class,C
 Bengtsson,Mr. John Viktor,Male,26.0,Third Class,S
-Bentham,Miss. Lilian W,Female,19.0,Second Class,S
 Berglund,Mr. Karl Ivar Sven,Male,22.0,Third Class,S
 Berriman,Mr. William John,Male,23.0,Second Class,S
-Betros,Master. Seman,Male,,Third Class,C
 Betros,Mr. Tannous,Male,20.0,Third Class,C
 Bidois,Miss. Rosalie,Female,42.0,First Class,C
 Bing,Mr. Lee,Male,32.0,Third Class,S
-Bird,Miss. Ellen,Female,29.0,First Class,S
 Birkeland,Mr. Hans Martin Monsen,Male,21.0,Third Class,S
-Birnbaum,Mr. Jakob,Male,25.0,First Class,C
 Bishop,Mr. Dickinson H,Male,25.0,First Class,C
 Bishop,Mrs. Dickinson H (Helen Walton),Female,19.0,First Class,C
 Bissette,Miss. Amelia,Female,35.0,First Class,S
-Bjorklund,Mr. Ernst Herbert,Male,18.0,Third Class,S
 Bjornstrom-Steffansson,Mr. Mauritz Hakan,Male,28.0,First Class,S
 Blackwell,Mr. Stephen Weart,Male,45.0,First Class,S
 Blank,Mr. Henry,Male,40.0,First Class,C
-Bonnell,Miss. Caroline,Female,30.0,First Class,S
 Bonnell,Miss. Elizabeth,Female,58.0,First Class,S
-Borebank,Mr. John James,Male,42.0,First Class,S
 Bostandyeff,Mr. Guentcho,Male,26.0,Third Class,S
-Botsford,Mr. William Hull,Male,26.0,Second Class,S
-Boulos,Master. Akar,Male,6.0,Third Class,C
 Boulos,Miss. Nourelain,Female,9.0,Third Class,C
 Boulos,Mr. Hanna,Male,,Third Class,C
 Boulos,Mrs. Joseph (Sultana),Female,,Third Class,C
 Bourke,Miss. Mary,Female,,Third Class,Q
 Bourke,Mr. John,Male,40.0,Third Class,Q
 Bourke,Mrs. John (Catherine),Female,32.0,Third Class,Q
-Bowen,Miss. Grace Scott,Female,45.0,First Class,C
 Bowen,"Mr. David John ""Dai""",Male,21.0,Third Class,S
-Bowenur,Mr. Solomon,Male,42.0,Second Class,S
 Bowerman,Miss. Elsie Edith,Female,22.0,First Class,S
 Bracken,Mr. James H,Male,27.0,Second Class,S
-Bradley,Miss. Bridget Delia,Female,22.0,Third Class,Q
 Bradley,"Mr. George (""George Arthur Brayton"")",Male,,First Class,S
-Brady,Mr. John Bertram,Male,41.0,First Class,S
-Braf,Miss. Elin Ester Maria,Female,20.0,Third Class,S
-Brandeis,Mr. Emil,Male,48.0,First Class,C
 Braund,Mr. Lewis Richard,Male,29.0,Third Class,S
 Braund,Mr. Owen Harris,Male,22.0,Third Class,S
 Brewe,Dr. Arthur Jackson,Male,,First Class,C
-Brobeck,Mr. Karl Rudolf,Male,22.0,Third Class,S
 Brocklebank,Mr. William Alfred,Male,35.0,Third Class,S
 Brown,"Miss. Amelia ""Mildred""",Female,24.0,Second Class,S
-Brown,Miss. Edith Eileen,Female,15.0,Second Class,S
 Brown,Mr. Thomas William Solomon,Male,60.0,Second Class,S
 Brown,Mrs. James Joseph (Margaret Tobin),Female,44.0,First Class,C
-Brown,Mrs. John Murray (Caroline Lane Lamson),Female,59.0,First Class,S
 Brown,Mrs. Thomas William Solomon (Elizabeth Catherine Ford),Female,40.0,Second Class,S
-Bryhl,Miss. Dagmar Jenny Ingeborg ,Female,20.0,Second Class,S
 Bryhl,Mr. Kurt Arnold Gottfrid,Male,25.0,Second Class,S
-Buckley,Miss. Katherine,Female,18.5,Third Class,Q
-Buckley,Mr. Daniel,Male,21.0,Third Class,Q
-Bucknell,Mrs. William Robert (Emma Eliza Ward),Female,60.0,First Class,C
 Burke,Mr. Jeremiah,Male,19.0,Third Class,Q
 Burns,Miss. Elizabeth Margaret,Female,41.0,First Class,C
-Burns,Miss. Mary Delia,Female,18.0,Third Class,Q
 Buss,Miss. Kate,Female,36.0,Second Class,S
 Butler,Mr. Reginald Fenton,Male,25.0,Second Class,S
 Butt,Major. Archibald Willingham,Male,45.0,First Class,S
 Byles,Rev. Thomas Roussel Davids,Male,42.0,Second Class,S
 Bystrom,Mrs. (Karolina),Female,42.0,Second Class,S
-Cacic,Miss. Manda,Female,21.0,Third Class,S
 Cacic,Miss. Marija,Female,30.0,Third Class,S
-Cacic,Mr. Jego Grga,Male,18.0,Third Class,S
 Cacic,Mr. Luka,Male,38.0,Third Class,S
 Cairns,Mr. Alexander,Male,,First Class,S
 Calderhead,Mr. Edward Pennington,Male,42.0,First Class,S
 Caldwell,Master. Alden Gates,Male,0.83,Second Class,S
-Caldwell,Mr. Albert Francis,Male,26.0,Second Class,S
 Caldwell,Mrs. Albert Francis (Sylvia Mae Harbaugh),Female,22.0,Second Class,S
 Calic,Mr. Jovo,Male,17.0,Third Class,S
 Calic,Mr. Petar,Male,17.0,Third Class,S
 Cameron,Miss. Clear Annie,Female,35.0,Second Class,S
 Campbell,Mr. William,Male,,Second Class,S
 Canavan,Miss. Mary,Female,21.0,Third Class,Q
-Canavan,Mr. Patrick,Male,21.0,Third Class,Q
-Candee,Mrs. Edward (Helen Churchill Hungerford),Female,53.0,First Class,C
 Cann,Mr. Ernest Charles,Male,21.0,Third Class,S
-Caram,Mr. Joseph,Male,,Third Class,C
 Caram,Mrs. Joseph (Maria Elias),Female,,Third Class,C
 Carbines,Mr. William,Male,19.0,Second Class,S
 Cardeza,Mr. Thomas Drake Martinez,Male,36.0,First Class,C
-Cardeza,Mrs. James Warburton Martinez (Charlotte Wardle Drake),Female,58.0,First Class,C
 Carlsson,Mr. August Sigfrid,Male,28.0,Third Class,S
-Carlsson,Mr. Carl Robert,Male,24.0,Third Class,S
 Carlsson,Mr. Frans Olof,Male,33.0,First Class,S
 Carr,"Miss. Helen ""Ellen""",Female,16.0,Third Class,Q
-Carr,Miss. Jeannie,Female,37.0,Third Class,Q
 Carrau,Mr. Francisco M,Male,28.0,First Class,S
-Carrau,Mr. Jose Pedro,Male,17.0,First Class,S
 Carter,Master. William Thornton II,Male,11.0,First Class,S
 Carter,Miss. Lucile Polk,Female,14.0,First Class,S
 Carter,Mr. William Ernest,Male,36.0,First Class,S
 Carter,Mrs. Ernest Courtenay (Lilian Hughes),Female,44.0,Second Class,S
 Carter,Mrs. William Ernest (Lucile Polk),Female,36.0,First Class,S
 Carter,Rev. Ernest Courtenay,Male,54.0,Second Class,S
-Carver,Mr. Alfred John,Male,28.0,Third Class,S
-Case,Mr. Howard Brown,Male,49.0,First Class,S
-Cassebeer,Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick),Female,,First Class,C
 Cavendish,Mr. Tyrell William,Male,36.0,First Class,S
-Cavendish,Mrs. Tyrell William (Julia Florence Siegel),Female,76.0,First Class,S
 Celotti,Mr. Francesco,Male,24.0,Third Class,S
 Chaffee,Mr. Herbert Fuller,Male,46.0,First Class,S
-Chaffee,Mrs. Herbert Fuller (Carrie Constance Toogood),Female,47.0,First Class,S
 Chambers,Mr. Norman Campbell,Male,27.0,First Class,S
 Chambers,Mrs. Norman Campbell (Bertha Griggs),Female,33.0,First Class,S
 Chapman,Mr. Charles Henry,Male,52.0,Second Class,S
 Chapman,Mr. John Henry,Male,37.0,Second Class,S
-Chapman,Mrs. John Henry (Sara Elizabeth Lawry),Female,29.0,Second Class,S
 Charters,Mr. David,Male,21.0,Third Class,Q
-Chaudanson,Miss. Victorine,Female,36.0,First Class,C
 Cherry,Miss. Gladys,Female,30.0,First Class,S
-Chevre,Mr. Paul Romaine,Male,45.0,First Class,C
 Chibnall,Mrs. (Edith Martha Bowerman),Female,,First Class,S
 Chip,Mr. Chang,Male,32.0,Third Class,S
-Chisholm,Mr. Roderick Robert Crispin,Male,,First Class,S
 Christmann,Mr. Emil,Male,29.0,Third Class,S
 Christy,Miss. Julie Rachel,Female,25.0,Second Class,S
-Christy,Mrs. (Alice Frances),Female,45.0,Second Class,S
 Chronopoulos,Mr. Apostolos,Male,26.0,Third Class,C
-Chronopoulos,Mr. Demetrios,Male,18.0,Third Class,C
-Clark,Mr. Walter Miller,Male,27.0,First Class,C
-Clark,Mrs. Walter Miller (Virginia McDowell),Female,26.0,First Class,C
-Clarke,Mr. Charles Valentine,Male,29.0,Second Class,S
 Clarke,Mrs. Charles V (Ada Maria Winfield),Female,28.0,Second Class,S
 Cleaver,Miss. Alice,Female,22.0,First Class,S
 Clifford,Mr. George Quincy,Male,,First Class,S
 Coelho,Mr. Domingos Fernandeo,Male,20.0,Third Class,S
 Cohen,"Mr. Gurshon ""Gus""",Male,18.0,Third Class,S
-Colbert,Mr. Patrick,Male,24.0,Third Class,Q
 Coleff,Mr. Peju,Male,36.0,Third Class,S
 Coleff,Mr. Satio,Male,24.0,Third Class,S
 Coleridge,Mr. Reginald Charles,Male,29.0,Second Class,S
 Collander,Mr. Erik Gustaf,Male,28.0,Second Class,S
-Collett,Mr. Sidney C Stuart,Male,24.0,Second Class,S
 Colley,Mr. Edward Pomeroy,Male,47.0,First Class,S
 Collyer,"Miss. Marjorie ""Lottie""",Female,8.0,Second Class,S
 Collyer,Mr. Harvey,Male,31.0,Second Class,S
 Collyer,Mrs. Harvey (Charlotte Annie Tate),Female,31.0,Second Class,S
 Compton,Miss. Sara Rebecca,Female,39.0,First Class,C
-Compton,Mr. Alexander Taylor Jr,Male,37.0,First Class,C
-Compton,Mrs. Alexander Taylor (Mary Eliza Ingersoll),Female,64.0,First Class,C
-Conlon,Mr. Thomas Henry,Male,31.0,Third Class,Q
 Connaghton,Mr. Michael,Male,31.0,Third Class,Q
-Connolly,Miss. Kate,Female,30.0,Third Class,Q
 Connolly,Miss. Kate,Female,22.0,Third Class,Q
 Connors,Mr. Patrick,Male,70.5,Third Class,Q
 Cook,Mr. Jacob,Male,43.0,Third Class,S
-Cook,Mrs. (Selena Rogers),Female,22.0,Second Class,S
-Cor,Mr. Bartol,Male,35.0,Third Class,S
-Cor,Mr. Ivan,Male,27.0,Third Class,S
 Cor,Mr. Liudevit,Male,19.0,Third Class,S
-Corbett,Mrs. Walter H (Irene Colvin),Female,30.0,Second Class,S
-Corey,Mrs. Percy C (Mary Phyllis Elizabeth Miller),Female,,Second Class,S
 Corn,Mr. Harry,Male,30.0,Third Class,S
-Cornell,Mrs. Robert Clifford (Malvina Helen Lamson),Female,55.0,First Class,S
-Cotterill,"Mr. Henry Harry""""",Male,21.0,Second Class,S
 Coutts,"Master. Eden Leslie ""Neville""",Male,9.0,Third Class,S
 Coutts,"Master. William Loch ""William""",Male,3.0,Third Class,S
-Coutts,"Mrs. William (Winnie Minnie"" Treanor)""",Female,36.0,Third Class,S
 Coxon,Mr. Daniel,Male,59.0,Third Class,S
-Crafton,Mr. John Bertram,Male,,First Class,S
 Crease,Mr. Ernest James,Male,19.0,Third Class,S
-Cribb,Miss. Laura Alice,Female,17.0,Third Class,S
 Cribb,Mr. John Hatfield,Male,44.0,Third Class,S
 Crosby,Capt. Edward Gifford,Male,70.0,First Class,S
 Crosby,Miss. Harriet R,Female,36.0,First Class,S
-Crosby,Mrs. Edward Gifford (Catherine Elizabeth Halstead),Female,64.0,First Class,S
 Culumovic,Mr. Jeso,Male,17.0,Third Class,S
-Cumings,Mr. John Bradley,Male,39.0,First Class,C
 Cumings,Mrs. John Bradley (Florence Briggs Thayer),Female,38.0,First Class,C
 Cunningham,Mr. Alfred Fleming,Male,,Second Class,S
-Daher,Mr. Shedid,Male,22.5,Third Class,C
 Dahl,Mr. Karl Edwart,Male,45.0,Third Class,S
 Dahlberg,Miss. Gerda Ulrika,Female,22.0,Third Class,S
 Dakic,Mr. Branko,Male,19.0,Third Class,S
-Daly,"Miss. Margaret Marcella Maggie""""",Female,30.0,Third Class,Q
 Daly,Mr. Eugene Patrick,Male,29.0,Third Class,Q
 Daly,Mr. Peter Denis ,Male,51.0,First Class,S
-Danbom,Master. Gilbert Sigvard Emanuel,Male,0.33,Third Class,S
 Danbom,Mr. Ernst Gilbert,Male,34.0,Third Class,S
 Danbom,Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren),Female,28.0,Third Class,S
 Daniel,Mr. Robert Williams,Male,27.0,First Class,S
-Daniels,Miss. Sarah,Female,33.0,First Class,S
 Danoff,Mr. Yoto,Male,27.0,Third Class,S
 Dantcheff,Mr. Ristiu,Male,25.0,Third Class,S
 Davidson,Mr. Thornton,Male,31.0,First Class,S
-Davidson,Mrs. Thornton (Orian Hays),Female,27.0,First Class,S
 Davies,Master. John Morgan Jr,Male,8.0,Second Class,S
 Davies,Mr. Alfred J,Male,24.0,Third Class,S
 Davies,Mr. Charles Henry,Male,18.0,Second Class,S
-Davies,Mr. Evan,Male,22.0,Third Class,S
-Davies,Mr. John Samuel,Male,21.0,Third Class,S
-Davies,Mr. Joseph,Male,17.0,Third Class,S
-Davies,Mrs. John Morgan (Elizabeth Agnes Mary White) ,Female,48.0,Second Class,S
 Davis,Miss. Mary,Female,28.0,Second Class,S
-Davison,Mr. Thomas Henry,Male,,Third Class,S
 Davison,Mrs. Thomas Henry (Mary E Finck),Female,,Third Class,S
-Deacon,Mr. Percy William,Male,17.0,Second Class,S
 Dean,Master. Bertram Vere,Male,1.0,Third Class,S
-Dean,"Miss. Elizabeth Gladys Millvina""""",Female,0.17,Third Class,S
 Dean,Mr. Bertram Frank,Male,26.0,Third Class,S
-Dean,Mrs. Bertram (Eva Georgetta Light),Female,33.0,Third Class,S
-Delalic,Mr. Redjo,Male,25.0,Third Class,S
-Demetri,Mr. Marinko,Male,,Third Class,S
-Denbury,Mr. Herbert,Male,25.0,Second Class,S
 Denkoff,Mr. Mitto,Male,,Third Class,S
 Dennis,Mr. Samuel,Male,22.0,Third Class,S
-Dennis,Mr. William,Male,36.0,Third Class,S
 Devaney,Miss. Margaret Delia,Female,19.0,Third Class,Q
-Dibden,Mr. William,Male,18.0,Second Class,S
 Dick,Mr. Albert Adrian,Male,31.0,First Class,S
 Dick,Mrs. Albert Adrian (Vera Gillespie),Female,17.0,First Class,S
-Dika,Mr. Mirko,Male,17.0,Third Class,S
 Dimic,Mr. Jovan,Male,42.0,Third Class,S
-Dintcheff,Mr. Valtcho,Male,43.0,Third Class,S
-Dodge,Dr. Washington,Male,53.0,First Class,S
 Dodge,Master. Washington,Male,4.0,First Class,S
-Dodge,Mrs. Washington (Ruth Vidaver),Female,54.0,First Class,S
 Doharr,Mr. Tannous,Male,,Third Class,C
 Doling,Miss. Elsie,Female,18.0,Second Class,S
 Doling,Mrs. John T (Ada Julia Bone),Female,34.0,Second Class,S
 Dooley,Mr. Patrick,Male,32.0,Third Class,Q
 Dorking,Mr. Edward Arthur,Male,19.0,Third Class,S
 Douglas,Mr. Walter Donald,Male,50.0,First Class,C
-Douglas,Mrs. Frederick Charles (Mary Helene Baxter),Female,27.0,First Class,C
-Douglas,Mrs. Walter Donald (Mahala Dutton),Female,48.0,First Class,C
 Dowdell,Miss. Elizabeth,Female,30.0,Third Class,S
 Downton,Mr. William James,Male,54.0,Second Class,S
-Doyle,Miss. Elizabeth,Female,24.0,Third Class,Q
-Drapkin,Miss. Jennie,Female,23.0,Third Class,S
 Drazenoic,Mr. Jozef,Male,33.0,Third Class,C
-Drew,Master. Marshall Brines,Male,8.0,Second Class,S
-Drew,Mr. James Vivian,Male,42.0,Second Class,S
 Drew,Mrs. James Vivian (Lulu Thorne Christian),Female,34.0,Second Class,S
 Duane,Mr. Frank,Male,65.0,Third Class,Q
 Duff Gordon,"Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",Female,48.0,First Class,C
 Duff Gordon,"Sir. Cosmo Edmund (""Mr Morgan"")",Male,49.0,First Class,C
-Dulles,Mr. William Crothers,Male,39.0,First Class,C
-Duquemin,Mr. Joseph,Male,24.0,Third Class,S
 Duran y More,Miss. Asuncion,Female,27.0,Second Class,C
-Duran y More,Miss. Florentina,Female,30.0,Second Class,C
-Dyker,Mr. Adolf Fredrik,Male,23.0,Third Class,S
-Dyker,Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson),Female,22.0,Third Class,S
-Earnshaw,Mrs. Boulton (Olive Potter),Female,23.0,First Class,C
 Edvardsson,Mr. Gustaf Hjalmar,Male,18.0,Third Class,S
 Eitemiller,Mr. George Floyd,Male,23.0,Second Class,S
 Eklund,Mr. Hans Linus,Male,16.0,Third Class,S
 Ekstrom,Mr. Johan,Male,45.0,Third Class,S
 Elias,Mr. Dibo,Male,,Third Class,C
-Elias,Mr. Joseph,Male,39.0,Third Class,C
 Elias,Mr. Joseph Jr,Male,17.0,Third Class,C
 Elias,Mr. Tannous,Male,15.0,Third Class,C
 Elsbury,Mr. William James,Male,47.0,Third Class,S
 Emanuel,Miss. Virginia Ethel,Female,5.0,Third Class,S
 Emir,Mr. Farred Chehab,Male,,Third Class,C
-Enander,Mr. Ingvar,Male,21.0,Second Class,S
 Endres,Miss. Caroline Louise,Female,38.0,First Class,C
 Eustis,Miss. Elizabeth Mussey,Female,54.0,First Class,C
-Evans,Miss. Edith Corse,Female,36.0,First Class,C
-Everett,Mr. Thomas James,Male,40.5,Third Class,S
 Fahlstrom,Mr. Arne Jonas,Male,18.0,Second Class,S
 Farrell,Mr. James,Male,40.5,Third Class,Q
 Farthing,Mr. John,Male,,First Class,S
-Faunthorpe,Mr. Harry,Male,40.0,Second Class,S
 Faunthorpe,Mrs. Lizzie (Elizabeth Anne Wilkinson),Female,29.0,Second Class,S
-Fillbrook,Mr. Joseph Charles,Male,18.0,Second Class,S
-Finoli,Mr. Luigi,Male,,Third Class,S
 Fischer,Mr. Eberhard Thelander,Male,18.0,Third Class,S
-Flegenheim,Mrs. Alfred (Antoinette),Female,,First Class,S
-Fleming,Miss. Honora,Female,,Third Class,Q
 Fleming,Miss. Margaret,Female,,First Class,C
 Flynn,Mr. James,Male,,Third Class,Q
 Flynn,Mr. John,Male,,Third Class,Q
 Flynn,"Mr. John Irwin (""Irving"")",Male,36.0,First Class,S
-Foley,Mr. Joseph,Male,26.0,Third Class,Q
-Foley,Mr. William,Male,,Third Class,Q
 Foo,Mr. Choong,Male,,Third Class,S
 Ford,"Miss. Doolina Margaret ""Daisy""",Female,21.0,Third Class,S
 Ford,"Miss. Robina Maggie ""Ruby""",Female,9.0,Third Class,S
-Ford,Mr. Arthur,Male,,Third Class,S
-Ford,Mr. Edward Watson,Male,18.0,Third Class,S
 Ford,Mr. William Neal,Male,16.0,Third Class,S
 Ford,Mrs. Edward (Margaret Ann Watson),Female,48.0,Third Class,S
 Foreman,Mr. Benjamin Laventall,Male,30.0,First Class,C
 Fortune,Miss. Alice Elizabeth,Female,24.0,First Class,S
-Fortune,Miss. Ethel Flora,Female,28.0,First Class,S
 Fortune,Miss. Mabel Helen,Female,23.0,First Class,S
 Fortune,Mr. Charles Alexander,Male,19.0,First Class,S
 Fortune,Mr. Mark,Male,64.0,First Class,S
-Fortune,Mrs. Mark (Mary McDougald),Female,60.0,First Class,S
-Fox,Mr. Patrick,Male,,Third Class,Q
 Fox,Mr. Stanley Hubert,Male,36.0,Second Class,S
 Francatelli,Miss. Laura Mabel,Female,30.0,First Class,C
-Franklin,Mr. Charles (Charles Fardon),Male,,Third Class,S
-Franklin,Mr. Thomas Parham,Male,,First Class,S
 Frauenthal,Dr. Henry William,Male,50.0,First Class,S
-Frauenthal,Mr. Isaac Gerald,Male,43.0,First Class,C
 Frauenthal,Mrs. Henry William (Clara Heinsheimer),Female,,First Class,S
 Frolicher,Miss. Hedwig Margaritha,Female,22.0,First Class,C
 Frolicher-Stehli,Mr. Maxmillian,Male,60.0,First Class,C
-Frolicher-Stehli,Mrs. Maxmillian (Margaretha Emerentia Stehli),Female,48.0,First Class,C
 Frost,"Mr. Anthony Wood ""Archie""",Male,,Second Class,S
 Fry,Mr. Richard,Male,,First Class,S
 Funk,Miss. Annie Clemmer,Female,38.0,Second Class,S
 Futrelle,Mr. Jacques Heath,Male,37.0,First Class,S
 Futrelle,Mrs. Jacques Heath (Lily May Peel),Female,35.0,First Class,S
 Fynney,Mr. Joseph J,Male,35.0,Second Class,S
-Gale,Mr. Harry,Male,38.0,Second Class,S
 Gale,Mr. Shadrach,Male,34.0,Second Class,S
 Gallagher,Mr. Martin,Male,25.0,Third Class,Q
 Garfirth,Mr. John,Male,,Third Class,S
@@ -432,15 +280,9 @@ Garside,Miss. Ethel,Female,34.0,Second Class,S
 Gaskell,Mr. Alfred,Male,16.0,Second Class,S
 Gavey,Mr. Lawrence,Male,26.0,Second Class,S
 Gee,Mr. Arthur H,Male,47.0,First Class,S
-Geiger,Miss. Amalie,Female,35.0,First Class,C
 Gheorgheff,Mr. Stanio,Male,,Third Class,C
-Gibson,Miss. Dorothy Winifred,Female,22.0,First Class,C
-Gibson,Mrs. Leonard (Pauline C Boeson),Female,45.0,First Class,C
 Giglio,Mr. Victor,Male,24.0,First Class,C
-Gilbert,Mr. William,Male,47.0,Second Class,S
-Giles,Mr. Edgar,Male,21.0,Second Class,S
 Giles,Mr. Frederick Edward,Male,21.0,Second Class,S
-Giles,Mr. Ralph,Male,24.0,Second Class,S
 Gilinski,Mr. Eliezer,Male,22.0,Third Class,S
 Gill,Mr. John William,Male,24.0,Second Class,S
 Gillespie,Mr. William Henry,Male,34.0,Second Class,S
@@ -452,34 +294,27 @@ Goldenberg,Mrs. Samuel L (Edwiga Grabowska),Female,,First Class,C
 Goldschmidt,Mr. George B,Male,71.0,First Class,C
 Goldsmith,"Master. Frank John William ""Frankie""",Male,9.0,Third Class,S
 Goldsmith,Mr. Frank John,Male,33.0,Third Class,S
-Goldsmith,Mr. Nathan,Male,41.0,Third Class,S
 Goldsmith,Mrs. Frank John (Emily Alice Brown),Female,31.0,Third Class,S
 Goncalves,Mr. Manuel Estanslas,Male,38.0,Third Class,S
 Goodwin,Master. Harold Victor,Male,9.0,Third Class,S
 Goodwin,Master. Sidney Leonard,Male,1.0,Third Class,S
 Goodwin,Master. William Frederick,Male,11.0,Third Class,S
-Goodwin,Miss. Jessie Allis,Female,10.0,Third Class,S
 Goodwin,Miss. Lillian Amy,Female,16.0,Third Class,S
 Goodwin,Mr. Charles Edward,Male,14.0,Third Class,S
-Goodwin,Mr. Charles Frederick,Male,40.0,Third Class,S
 Goodwin,Mrs. Frederick (Augusta Tyler),Female,43.0,Third Class,S
-Gracie,Col. Archibald IV,Male,53.0,First Class,C
 Graham,Miss. Margaret Edith,Female,19.0,First Class,S
 Graham,Mr. George Edward,Male,38.0,First Class,S
 Graham,Mrs. William Thompson (Edith Junkins),Female,58.0,First Class,S
 Green,Mr. George Henry,Male,51.0,Third Class,S
 Greenberg,Mr. Samuel,Male,52.0,Second Class,S
 Greenfield,Mr. William Bertram,Male,23.0,First Class,C
-Greenfield,Mrs. Leo David (Blanche Strouse),Female,45.0,First Class,C
 Gronnestad,Mr. Daniel Danielsen,Male,32.0,Third Class,S
-Guest,Mr. Robert,Male,,Third Class,S
 Guggenheim,Mr. Benjamin,Male,46.0,First Class,C
 Gustafsson,Mr. Alfred Ossian,Male,20.0,Third Class,S
 Gustafsson,Mr. Anders Vilhelm,Male,37.0,Third Class,S
 Gustafsson,Mr. Johan Birger,Male,28.0,Third Class,S
 Gustafsson,Mr. Karl Gideon,Male,19.0,Third Class,S
 Haas,Miss. Aloisia,Female,24.0,Third Class,S
-Hagardon,Miss. Kate,Female,17.0,Third Class,Q
 Hagland,Mr. Ingvald Olai Olsen,Male,,Third Class,S
 Hagland,Mr. Konrad Mathias Reiersen,Male,,Third Class,S
 Hakkarainen,Mr. Pekka Pietari,Male,28.0,Third Class,S
@@ -492,10 +327,7 @@ Hanna,Mr. Mansour,Male,23.5,Third Class,C
 Hansen,Mr. Claus Peter,Male,41.0,Third Class,S
 Hansen,Mr. Henrik Juul,Male,26.0,Third Class,S
 Hansen,Mr. Henry Damsgaard,Male,21.0,Third Class,S
-Hansen,Mrs. Claus Peter (Jennie L Howard),Female,45.0,Third Class,S
-Harbeck,Mr. William H,Male,44.0,Second Class,S
 Harder,Mr. George Achilles,Male,25.0,First Class,C
-Harder,Mrs. George Achilles (Dorothy Annan),Female,25.0,First Class,C
 Harknett,Miss. Alice Phoebe,Female,,Third Class,S
 Harmer,Mr. Abraham (David Lishin),Male,25.0,Third Class,S
 Harper,"Miss. Annie Jessie ""Nina""",Female,6.0,Second Class,S
@@ -516,44 +348,29 @@ Hassab,Mr. Hammad,Male,27.0,First Class,C
 Hassan,Mr. Houssein G N,Male,11.0,Third Class,C
 Hawksford,Mr. Walter James,Male,,First Class,S
 Hays,Miss. Margaret Bechstein,Female,24.0,First Class,C
-Hays,Mr. Charles Melville,Male,55.0,First Class,S
 Hays,Mrs. Charles Melville (Clara Jennings Gregg),Female,52.0,First Class,S
-Head,Mr. Christopher,Male,42.0,First Class,S
 Healy,"Miss. Hanora ""Nora""",Female,,Third Class,Q
 Hedman,Mr. Oskar Arvid,Male,27.0,Third Class,S
-Hee,Mr. Ling,Male,,Third Class,S
 Hegarty,"Miss. Hanora ""Nora""",Female,18.0,Third Class,Q
 Heikkinen,Miss. Laina,Female,26.0,Third Class,S
 Heininen,Miss. Wendla Maria,Female,23.0,Third Class,S
-Hellstrom,Miss. Hilda Maria,Female,22.0,Third Class,S
 Hendekovic,Mr. Ignjac,Male,28.0,Third Class,S
-Henriksson,Miss. Jenny Lovisa,Female,28.0,Third Class,S
 Henry,Miss. Delia,Female,,Third Class,Q
 Herman,Miss. Alice,Female,24.0,Second Class,S
-Herman,Miss. Kate,Female,24.0,Second Class,S
-Herman,Mr. Samuel,Male,49.0,Second Class,S
 Herman,Mrs. Samuel (Jane Laver),Female,48.0,Second Class,S
 Hewlett,Mrs. (Mary D Kingcome) ,Female,55.0,Second Class,S
 Hickman,Mr. Leonard Mark,Male,24.0,Second Class,S
 Hickman,Mr. Lewis,Male,32.0,Second Class,S
 Hickman,Mr. Stanley George,Male,21.0,Second Class,S
-Hilliard,Mr. Herbert Henry,Male,,First Class,S
-Hiltunen,Miss. Marta,Female,18.0,Second Class,S
-Hipkins,Mr. William Edward,Male,55.0,First Class,S
 Hippach,Miss. Jean Gertrude,Female,16.0,First Class,C
 Hippach,Mrs. Louis Albert (Ida Sophia Fischer),Female,44.0,First Class,C
 Hirvonen,Miss. Hildur E,Female,2.0,Third Class,S
-Hirvonen,Mrs. Alexander (Helga E Lindqvist),Female,22.0,Third Class,S
-Hocking,"Miss. Ellen Nellie""""",Female,20.0,Second Class,S
 Hocking,Mr. Richard George,Male,23.0,Second Class,S
-Hocking,Mr. Samuel James Metcalfe,Male,36.0,Second Class,S
 Hocking,Mrs. Elizabeth (Eliza Needs),Female,54.0,Second Class,S
 Hodges,Mr. Henry Price,Male,50.0,Second Class,S
 Hogeboom,Mrs. John C (Anna Andrews),Female,51.0,First Class,S
 Hold,Mr. Stephen,Male,44.0,Second Class,S
-Hold,Mrs. Stephen (Annie Margaret Hill),Female,29.0,Second Class,S
 Holm,Mr. John Fredrik Alexander,Male,43.0,Third Class,S
-Holthen,Mr. Johan Martin,Male,28.0,Third Class,S
 Holverson,Mr. Alexander Oskar,Male,42.0,First Class,S
 Holverson,Mrs. Alexander Oskar (Mary Aline Towner),Female,35.0,First Class,S
 Homer,"Mr. Harry (""Mr E Haven"")",Male,35.0,First Class,C
@@ -561,23 +378,16 @@ Honkanen,Miss. Eliina,Female,27.0,Third Class,S
 Hood,Mr. Ambrose Jr,Male,21.0,Second Class,S
 Horgan,Mr. John,Male,,Third Class,Q
 Hosono,Mr. Masabumi,Male,42.0,Second Class,S
-Howard,Miss. May Elizabeth,Female,,Third Class,S
-Howard,Mr. Benjamin,Male,63.0,Second Class,S
-Howard,Mrs. Benjamin (Ellen Truelove Arman),Female,60.0,Second Class,S
 Hoyt,Mr. Frederick Maxfield,Male,38.0,First Class,S
 Hoyt,Mr. William Fisher,Male,,First Class,C
 Hoyt,Mrs. Frederick Maxfield (Jane Anne Forby),Female,35.0,First Class,S
 Humblen,Mr. Adolf Mathias Nicolai Olsen,Male,42.0,Third Class,S
 Hunt,Mr. George Henry,Male,33.0,Second Class,S
-Hyman,Mr. Abraham,Male,,Third Class,S
 Ibrahim Shawah,Mr. Yousseff,Male,30.0,Third Class,C
 Icard,Miss. Amelie,Female,38.0,First Class,
 Ilett,Miss. Bertha,Female,17.0,Second Class,S
-Ilieff,Mr. Ylio,Male,,Third Class,S
-Ilmakangas,Miss. Ida Livija,Female,27.0,Third Class,S
 Ilmakangas,Miss. Pieta Sofia,Female,25.0,Third Class,S
 Isham,Miss. Ann Elizabeth,Female,50.0,First Class,C
-Ismay,Mr. Joseph Bruce,Male,49.0,First Class,S
 Ivanoff,Mr. Kanio,Male,,Third Class,S
 Jacobsohn,Mr. Sidney Samuel,Male,42.0,Second Class,S
 Jacobsohn,Mrs. Sidney Samuel (Amy Frances Christy),Female,24.0,Second Class,S
@@ -585,8 +395,6 @@ Jalsevac,Mr. Ivan,Male,29.0,Third Class,C
 Jansson,Mr. Carl Olof,Male,21.0,Third Class,S
 Jardin,Mr. Jose Neto,Male,,Third Class,S
 Jarvis,Mr. John Denzil,Male,47.0,Second Class,S
-Jefferys,Mr. Clifford Thomas,Male,24.0,Second Class,S
-Jefferys,Mr. Ernest Wilfred,Male,22.0,Second Class,S
 Jenkin,Mr. Stephen Curnow,Male,32.0,Second Class,S
 Jensen,Mr. Hans Peder,Male,20.0,Third Class,S
 Jensen,Mr. Niels Peder,Male,48.0,Third Class,S
@@ -595,26 +403,19 @@ Jermyn,Miss. Annie,Female,,Third Class,Q
 Jerwan,Mrs. Amin S (Marie Marthe Thuillard),Female,23.0,Second Class,C
 Johannesen-Bratthammer,Mr. Bernt,Male,,Third Class,S
 Johanson,Mr. Jakob Alfred,Male,34.0,Third Class,S
-Johansson Palmquist,Mr. Oskar Leander,Male,26.0,Third Class,S
 Johansson,Mr. Erik,Male,22.0,Third Class,S
 Johansson,Mr. Gustaf Joel,Male,33.0,Third Class,S
 Johansson,Mr. Karl Johan,Male,31.0,Third Class,S
-Johansson,Mr. Nils,Male,29.0,Third Class,S
 Johnson,Master. Harold Theodor,Male,4.0,Third Class,S
 Johnson,Miss. Eleanor Ileen,Female,1.0,Third Class,S
 Johnson,Mr. Alfred,Male,49.0,Third Class,S
 Johnson,Mr. Malkolm Joackim,Male,33.0,Third Class,S
 Johnson,Mr. William Cahoone Jr,Male,19.0,Third Class,S
 Johnson,Mrs. Oscar W (Elisabeth Vilhelmina Berg),Female,27.0,Third Class,S
-Johnston,"Master. William Arthur Willie""""",Male,,Third Class,S
 Johnston,"Miss. Catherine Helen ""Carrie""",Female,,Third Class,S
 Johnston,Mr. Andrew G,Male,,Third Class,S
-Johnston,"Mrs. Andrew G (Elizabeth Lily"" Watson)""",Female,,Third Class,S
-Jones,Mr. Charles Cresson,Male,46.0,First Class,S
 Jonkoff,Mr. Lalio,Male,23.0,Third Class,S
 Jonsson,Mr. Carl,Male,32.0,Third Class,S
-Jonsson,Mr. Nils Hilding,Male,27.0,Third Class,S
-Julian,Mr. Henry Forbes,Male,50.0,First Class,S
 Jussila,Miss. Katriina,Female,20.0,Third Class,S
 Jussila,Miss. Mari Aina,Female,21.0,Third Class,S
 Jussila,Mr. Eiriik,Male,32.0,Third Class,S
@@ -623,68 +424,42 @@ Kalvik,Mr. Johannes Halvorsen,Male,21.0,Third Class,S
 Kantor,Mr. Sinai,Male,34.0,Second Class,S
 Kantor,Mrs. Sinai (Miriam Sternin),Female,24.0,Second Class,S
 Karaic,Mr. Milan,Male,30.0,Third Class,S
-Karlsson,Mr. Einar Gervasius,Male,21.0,Third Class,S
-Karlsson,Mr. Julius Konrad Eugen,Male,33.0,Third Class,S
 Karlsson,Mr. Nils August,Male,22.0,Third Class,S
-Karnes,Mrs. J Frank (Claire Bennett),Female,22.0,Second Class,S
 Karun,Miss. Manca,Female,4.0,Third Class,C
-Karun,Mr. Franz,Male,39.0,Third Class,C
 Kassem,Mr. Fared,Male,,Third Class,C
-Katavelas,"Mr. Vassilios (Catavelas Vassilios"")""",Male,18.5,Third Class,C
 Keane,Miss. Nora A,Female,,Second Class,Q
 Keane,"Mr. Andrew ""Andy""",Male,,Third Class,Q
-Keane,Mr. Daniel,Male,35.0,Second Class,Q
 Keefe,Mr. Arthur,Male,,Third Class,S
-Keeping,Mr. Edwin,Male,32.5,First Class,C
 Kelly,"Miss. Anna Katherine ""Annie Kate""",Female,,Third Class,Q
 Kelly,Miss. Mary,Female,,Third Class,Q
 Kelly,Mr. James,Male,44.0,Third Class,S
-Kelly,Mr. James,Male,34.5,Third Class,Q
 Kelly,"Mrs. Florence ""Fannie""",Female,45.0,Second Class,S
-Kennedy,Mr. John,Male,,Third Class,Q
 Kent,Mr. Edward Austin,Male,58.0,First Class,C
-Kenyon,Mr. Frederick R,Male,41.0,First Class,S
 Kenyon,Mrs. Frederick R (Marion),Female,,First Class,S
-Khalil,Mr. Betros,Male,,Third Class,C
-Khalil,"Mrs. Betros (Zahie Maria"" Elias)""",Female,,Third Class,C
-Kiernan,Mr. John,Male,,Third Class,Q
 Kiernan,Mr. Philip,Male,,Third Class,Q
 Kilgannon,Mr. Thomas J,Male,,Third Class,Q
 Kimball,Mr. Edwin Nelson Jr,Male,42.0,First Class,S
-Kimball,Mrs. Edwin Nelson Jr (Gertrude Parsons),Female,45.0,First Class,S
-Kink,Miss. Maria,Female,22.0,Third Class,S
 Kink,Mr. Vincenz,Male,26.0,Third Class,S
 Kink-Heilmann,Miss. Luise Gretchen,Female,4.0,Third Class,S
-Kink-Heilmann,Mr. Anton,Male,29.0,Third Class,S
-Kink-Heilmann,Mrs. Anton (Luise Heilmann),Female,26.0,Third Class,S
 Kirkland,Rev. Charles Leonard,Male,57.0,Second Class,Q
 Klaber,Mr. Herman,Male,,First Class,S
-Klasen,Miss. Gertrud Emilia,Female,1.0,Third Class,S
 Klasen,Mr. Klas Albin,Male,18.0,Third Class,S
-Klasen,Mrs. (Hulda Kristina Eugenia Lofqvist),Female,36.0,Third Class,S
 Knight,Mr. Robert J,Male,,Second Class,S
 Kraeff,Mr. Theodor,Male,,Third Class,C
-Krekorian,Mr. Neshan,Male,25.0,Third Class,C
-Kreuchen,Miss. Emilie,Female,39.0,First Class,S
 Kvillner,Mr. Johan Henrik Johannesson,Male,31.0,Second Class,S
 Lahoud,Mr. Sarkis,Male,,Third Class,C
 Lahtinen,Mrs. William (Anna Sylfven),Female,26.0,Second Class,S
-Lahtinen,Rev. William,Male,30.0,Second Class,S
 Laitinen,Miss. Kristina Sofia,Female,37.0,Third Class,S
 Laleff,Mr. Kristo,Male,,Third Class,S
 Lam,Mr. Ali,Male,,Third Class,S
 Lam,Mr. Len,Male,,Third Class,S
-Lamb,Mr. John Joseph,Male,,Second Class,Q
 Landergren,Miss. Aurora Adelia,Female,22.0,Third Class,S
-Lane,Mr. Patrick,Male,,Third Class,Q
 Lang,Mr. Fang,Male,26.0,Third Class,S
-Laroche,Miss. Louise,Female,1.0,Second Class,C
 Laroche,Miss. Simonne Marie Anne Andree,Female,3.0,Second Class,C
 Laroche,Mr. Joseph Philippe Lemercier,Male,25.0,Second Class,C
 Laroche,Mrs. Joseph (Juliette Marie Louise Lafargue),Female,22.0,Second Class,C
 Larsson,Mr. August Viktor,Male,29.0,Third Class,S
 Larsson,Mr. Bengt Edvin,Male,29.0,Third Class,S
-Larsson-Rondberg,Mr. Edvard A,Male,22.0,Third Class,S
 LeRoy,Miss. Bertha,Female,30.0,First Class,C
 Leader,Dr. Alice (Farnham),Female,49.0,First Class,S
 Leeni,"Mr. Fahim (""Philip Zenni"")",Male,22.0,Third Class,C
@@ -692,13 +467,11 @@ Lefebre,Master. Henry Forbes,Male,,Third Class,S
 Lefebre,Miss. Ida,Female,,Third Class,S
 Lefebre,Miss. Jeannie,Female,,Third Class,S
 Lefebre,Miss. Mathilde,Female,,Third Class,S
-Lefebre,Mrs. Frank (Frances),Female,,Third Class,S
 Lehmann,Miss. Bertha,Female,17.0,Second Class,C
 Leinonen,Mr. Antti Gustaf,Male,32.0,Third Class,S
 Leitch,Miss. Jessie Wills,Female,,Second Class,S
 Lemberopolous,Mr. Peter L,Male,34.5,Third Class,C
 Lemore,Mrs. (Amelia Milley),Female,34.0,Second Class,S
-Lennon,Miss. Mary,Female,,Third Class,Q
 Lennon,Mr. Denis,Male,,Third Class,Q
 Leonard,Mr. Lionel,Male,36.0,Third Class,S
 Lester,Mr. James,Male,39.0,Third Class,S
@@ -709,83 +482,50 @@ Leyson,Mr. Robert William Norman,Male,24.0,Second Class,S
 Lievens,Mr. Rene Aime,Male,24.0,Third Class,S
 Lindahl,Miss. Agda Thorilda Viktoria,Female,25.0,Third Class,S
 Lindblom,Miss. Augusta Charlotta,Female,45.0,Third Class,S
-Lindeberg-Lind,"Mr. Erik Gustaf (Mr Edward Lingrey"")""",Male,42.0,First Class,S
 Lindell,Mr. Edvard Bengtsson,Male,36.0,Third Class,S
-Lindell,Mrs. Edvard Bengtsson (Elin Gerda Persson),Female,30.0,Third Class,S
 Lindqvist,Mr. Eino William,Male,20.0,Third Class,S
-Lindstrom,Mrs. Carl Johan (Sigrid Posse),Female,55.0,First Class,C
-Linehan,Mr. Michael,Male,,Third Class,Q
 Lines,Miss. Mary Conover,Female,16.0,First Class,S
-Lines,Mrs. Ernest H (Elizabeth Lindsey James),Female,51.0,First Class,S
 Ling,Mr. Lee,Male,28.0,Third Class,S
-Lingane,Mr. John,Male,61.0,Second Class,Q
-Lithman,Mr. Simon,Male,,Third Class,S
 Lobb,Mr. William Arthur,Male,30.0,Third Class,S
 Lobb,Mrs. William Arthur (Cordelia K Stanlick),Female,26.0,Third Class,S
-Lockyer,Mr. Edward,Male,,Third Class,S
 Long,Mr. Milton Clyde,Male,29.0,First Class,S
 Longley,Miss. Gretchen Fiske,Female,21.0,First Class,S
-Loring,Mr. Joseph Holland,Male,30.0,First Class,S
-Louch,Mr. Charles Alexander,Male,50.0,Second Class,S
 Louch,Mrs. Charles Alexander (Alice Adelaide Slow),Female,42.0,Second Class,S
 Lovell,"Mr. John Hall (""Henry"")",Male,20.5,Third Class,S
 Lulic,Mr. Nikola,Male,27.0,Third Class,S
 Lundahl,Mr. Johan Svensson,Male,51.0,Third Class,S
-Lundin,Miss. Olga Elida,Female,23.0,Third Class,S
-Lundstrom,Mr. Thure Edvin,Male,32.0,Third Class,S
 Lurette,Miss. Elise,Female,58.0,First Class,C
-Lyntakoff,Mr. Stanko,Male,,Third Class,S
-MacKay,Mr. George William,Male,,Third Class,S
 Mack,Mrs. (Mary),Female,57.0,Second Class,S
 Madigan,"Miss. Margaret ""Maggie""",Female,,Third Class,Q
 Madill,Miss. Georgette Alexandra,Female,15.0,First Class,S
 Madsen,Mr. Fridtjof Arne,Male,24.0,Third Class,S
 Maenpaa,Mr. Matti Alexanteri,Male,22.0,Third Class,S
-Maguire,Mr. John Edward,Male,30.0,First Class,S
-Mahon,Miss. Bridget Delia,Female,,Third Class,Q
-Mahon,Mr. John,Male,,Third Class,Q
 Maioni,Miss. Roberta,Female,16.0,First Class,S
 Maisner,Mr. Simon,Male,,Third Class,S
-Makinen,Mr. Kalle Edvard,Male,29.0,Third Class,S
-Malachard,Mr. Noel,Male,,Second Class,C
 Mallet,Master. Andre,Male,1.0,Second Class,C
 Mallet,Mr. Albert,Male,31.0,Second Class,C
-Mallet,Mrs. Albert (Antoinette Magnin),Female,24.0,Second Class,C
 Mamee,Mr. Hanna,Male,,Third Class,C
 Mangan,Miss. Mary,Female,30.5,Third Class,Q
-Mangiavacchi,Mr. Serafino Emilio,Male,,Second Class,C
 Mannion,Miss. Margareth,Female,,Third Class,Q
-Mardirosian,Mr. Sarkis,Male,,Third Class,C
 Marechal,Mr. Pierre,Male,,First Class,C
 Markoff,Mr. Marin,Male,35.0,Third Class,C
 Markun,Mr. Johann,Male,33.0,Third Class,S
 Marvin,Mr. Daniel Warner,Male,19.0,First Class,S
-Marvin,Mrs. Daniel Warner (Mary Graham Carmichael Farquarson),Female,18.0,First Class,S
 Masselmani,Mrs. Fatima,Female,,Third Class,C
-Matinoff,Mr. Nicola,Male,,Third Class,C
 Matthews,Mr. William John,Male,30.0,Second Class,S
-Maybery,Mr. Frank Hubert,Male,40.0,Second Class,S
 Mayne,"Mlle. Berthe Antonine (""Mrs de Villiers"")",Female,24.0,First Class,C
-McCaffry,Mr. Thomas Francis,Male,46.0,First Class,C
-McCarthy,"Miss. Catherine Katie""""",Female,,Third Class,Q
 McCarthy,Mr. Timothy J,Male,54.0,First Class,S
 McCormack,Mr. Thomas Joseph,Male,,Third Class,Q
 McCoy,Miss. Agnes,Female,,Third Class,Q
-McCoy,Miss. Alicia,Female,,Third Class,Q
 McCoy,Mr. Bernard,Male,,Third Class,Q
-McCrae,Mr. Arthur Gordon,Male,32.0,Second Class,S
-McCrie,Mr. James Matthew,Male,30.0,Second Class,S
 McDermott,Miss. Brigdet Delia,Female,,Third Class,Q
 McEvoy,Mr. Michael,Male,,Third Class,Q
 McGough,Mr. James Robert,Male,36.0,First Class,S
 McGovern,Miss. Mary,Female,,Third Class,Q
 McGowan,"Miss. Anna ""Annie""",Female,15.0,Third Class,Q
-McGowan,Miss. Katherine,Female,35.0,Third Class,Q
 McKane,Mr. Peter David,Male,46.0,Second Class,S
 McMahon,Mr. Martin,Male,,Third Class,Q
 McNamee,Mr. Neal,Male,24.0,Third Class,S
-McNamee,Mrs. Neal (Eileen O'Leary),Female,19.0,Third Class,S
-McNeill,Miss. Bridget,Female,,Third Class,Q
 Meanwell,Miss. (Marion Ogden),Female,,Third Class,S
 Meek,Mrs. Thomas (Annie Louise Rowley),Female,,Third Class,S
 Mellinger,Miss. Madeleine Violet,Female,13.0,Second Class,S
@@ -796,26 +536,20 @@ Mernagh,Mr. Robert,Male,,Third Class,Q
 Meyer,Mr. August,Male,39.0,Second Class,S
 Meyer,Mr. Edgar Joseph,Male,28.0,First Class,C
 Meyer,Mrs. Edgar Joseph (Leila Saks),Female,,First Class,C
-Midtsjo,Mr. Karl Albert,Male,21.0,Third Class,S
-Miles,Mr. Frank,Male,,Third Class,S
 Millet,Mr. Francis Davis,Male,65.0,First Class,S
 Milling,Mr. Jacob Christian,Male,48.0,Second Class,S
 Minahan,Dr. William Edward,Male,44.0,First Class,Q
 Minahan,Miss. Daisy E,Female,33.0,First Class,Q
-Minahan,Mrs. William Edward (Lillian E Thorpe),Female,37.0,First Class,Q
 Mineff,Mr. Ivan,Male,24.0,Third Class,S
-Minkoff,Mr. Lazar,Male,21.0,Third Class,S
 Mionoff,Mr. Stoytcho,Male,28.0,Third Class,S
 Mitchell,Mr. Henry Michael,Male,70.0,Second Class,S
 Mitkoff,Mr. Mito,Male,,Third Class,S
-Mock,Mr. Philipp Edmund,Male,30.0,First Class,C
 Mockler,"Miss. Helen Mary ""Ellie""",Female,,Third Class,Q
 Moen,Mr. Sigurd Hansen,Male,25.0,Third Class,S
 Molson,Mr. Harry Markland,Male,55.0,First Class,S
 Montvila,Rev. Juozas,Male,27.0,Second Class,S
 Moor,Master. Meier,Male,6.0,Third Class,S
 Moor,Mrs. (Beila),Female,27.0,Third Class,S
-Moore,Mr. Clarence Bloomfield,Male,47.0,First Class,S
 Moore,Mr. Leonard Charles,Male,,Third Class,S
 Moran,Miss. Bertha,Female,,Third Class,Q
 Moran,Mr. Daniel J,Male,,Third Class,Q
@@ -827,35 +561,26 @@ Morrow,Mr. Thomas Rowan,Male,,Third Class,Q
 Moss,Mr. Albert Johan,Male,,Third Class,S
 Moubarek,Master. Gerios,Male,,Third Class,C
 Moubarek,"Master. Halim Gonios (""William George"")",Male,,Third Class,C
-Moubarek,"Mrs. George (Omine Amenia"" Alexander)""",Female,,Third Class,C
 Moussa,Mrs. (Mantoura Boulos),Female,,Third Class,C
 Moutal,Mr. Rahamin Haim,Male,,Third Class,S
 Mudd,Mr. Thomas Charles,Male,16.0,Second Class,S
 Mullens,"Miss. Katherine ""Katie""",Female,,Third Class,Q
-Mulvihill,Miss. Bertha E,Female,24.0,Third Class,Q
 Murdlin,Mr. Joseph,Male,,Third Class,S
 Murphy,"Miss. Katherine ""Kate""",Female,,Third Class,Q
 Murphy,Miss. Margaret Jane,Female,,Third Class,Q
-Murphy,Miss. Nora,Female,,Third Class,Q
 Myhrman,Mr. Pehr Fabian Oliver Malkolm,Male,18.0,Third Class,S
-Myles,Mr. Thomas Francis,Male,62.0,Second Class,Q
 Naidenoff,Mr. Penko,Male,22.0,Third Class,S
 Najib,"Miss. Adele Kiamie ""Jane""",Female,15.0,Third Class,C
 Nakid,"Miss. Maria (""Mary"")",Female,1.0,Third Class,C
 Nakid,Mr. Sahid,Male,20.0,Third Class,C
-Nakid,"Mrs. Said (Waika Mary"" Mowad)""",Female,19.0,Third Class,C
-Nancarrow,Mr. William Henry,Male,33.0,Third Class,S
 Nankoff,Mr. Minko,Male,,Third Class,S
-Nasr,Mr. Mustafa,Male,,Third Class,C
 Nasser,Mr. Nicholas,Male,32.5,Second Class,C
 Nasser,Mrs. Nicholas (Adele Achem),Female,14.0,Second Class,C
 Natsch,Mr. Charles H,Male,37.0,First Class,C
-Naughton,Miss. Hannah,Female,,Third Class,Q
 Navratil,Master. Edmond Roger,Male,2.0,Second Class,S
 Navratil,Master. Michel M,Male,3.0,Second Class,S
 Navratil,"Mr. Michel (""Louis M Hoffman"")",Male,36.5,Second Class,S
 Nenkoff,Mr. Christo,Male,,Third Class,S
-Nesson,Mr. Israel,Male,26.0,Second Class,S
 Newell,Miss. Madeleine,Female,31.0,First Class,C
 Newell,Miss. Marjorie,Female,23.0,First Class,C
 Newell,Mr. Arthur Webster,Male,58.0,First Class,C
@@ -864,16 +589,11 @@ Nicholls,Mr. Joseph Charles,Male,19.0,Second Class,S
 Nicholson,Mr. Arthur Ernest,Male,64.0,First Class,S
 Nicola-Yarred,Master. Elias,Male,12.0,Third Class,C
 Nicola-Yarred,Miss. Jamila,Female,14.0,Third Class,C
-Nieminen,Miss. Manta Josefina,Female,29.0,Third Class,S
-Niklasson,Mr. Samuel,Male,28.0,Third Class,S
-Nilsson,Miss. Berta Olivia,Female,18.0,Third Class,S
 Nilsson,Miss. Helmina Josefina,Female,26.0,Third Class,S
-Nilsson,Mr. August Ferdinand,Male,21.0,Third Class,S
 Nirva,Mr. Iisakki Antino Aijo,Male,41.0,Third Class,S
 Niskanen,Mr. Juha,Male,39.0,Third Class,S
 Norman,Mr. Robert Douglas,Male,28.0,Second Class,S
 Nosworthy,Mr. Richard Cater,Male,21.0,Third Class,S
-Nourney,"Mr. Alfred (Baron von Drachstedt"")""",Male,20.0,Second Class,C
 Novel,Mr. Mansouer,Male,28.5,Third Class,C
 Nye,Mrs. (Elizabeth Ramell),Female,29.0,Second Class,S
 Nysten,Miss. Anna Sofia,Female,22.0,Third Class,S
@@ -883,40 +603,27 @@ O'Brien,Mr. Timothy,Male,,Third Class,Q
 O'Brien,"Mrs. Thomas (Johanna ""Hannah"" Godfrey)",Female,,Third Class,Q
 O'Connell,Mr. Patrick D,Male,,Third Class,Q
 O'Connor,Mr. Maurice,Male,,Third Class,Q
-O'Connor,Mr. Patrick,Male,,Third Class,Q
-O'Donoghue,Ms. Bridget,Female,,Third Class,Q
 O'Driscoll,Miss. Bridget,Female,,Third Class,Q
 O'Dwyer,"Miss. Ellen ""Nellie""",Female,,Third Class,Q
-O'Keefe,Mr. Patrick,Male,,Third Class,Q
 O'Leary,"Miss. Hanora ""Norah""",Female,,Third Class,Q
 O'Sullivan,Miss. Bridget Mary,Female,,Third Class,Q
 Odahl,Mr. Nils Martin,Male,23.0,Third Class,S
 Ohman,Miss. Velin,Female,22.0,Third Class,S
-Oliva y Ocana,Dona. Fermina,Female,39.0,First Class,C
-Olsen,Master. Artur Karl,Male,9.0,Third Class,S
 Olsen,Mr. Henry Margido,Male,28.0,Third Class,S
 Olsen,Mr. Karl Siegwart Andreas,Male,42.0,Third Class,S
 Olsen,Mr. Ole Martin,Male,,Third Class,S
 Olsson,Miss. Elina,Female,31.0,Third Class,S
 Olsson,Mr. Nils Johan Goransson,Male,28.0,Third Class,S
-Olsson,Mr. Oscar Wilhelm,Male,32.0,Third Class,S
 Olsvigen,Mr. Thor Anderson,Male,20.0,Third Class,S
-Omont,Mr. Alfred Fernand,Male,,First Class,C
-Oreskovic,Miss. Jelka,Female,23.0,Third Class,S
 Oreskovic,Miss. Marija,Female,20.0,Third Class,S
 Oreskovic,Mr. Luka,Male,20.0,Third Class,S
 Osen,Mr. Olaf Elon,Male,16.0,Third Class,S
 Osman,Mrs. Mara,Female,31.0,Third Class,S
-Ostby,Miss. Helene Ragnhild,Female,22.0,First Class,C
 Ostby,Mr. Engelhart Cornelius,Male,65.0,First Class,C
 Otter,Mr. Richard,Male,39.0,Second Class,S
-Ovies y Rodriguez,Mr. Servando,Male,28.5,First Class,C
-Oxenham,Mr. Percy Thomas,Male,22.0,Second Class,S
 Padro y Manent,Mr. Julian,Male,,Second Class,C
 Pain,Dr. Alfred,Male,23.0,Second Class,S
-Pallas y Castello,Mr. Emilio,Male,29.0,Second Class,C
 Palsson,Master. Gosta Leonard,Male,2.0,Third Class,S
-Palsson,Master. Paul Folke,Male,6.0,Third Class,S
 Palsson,Miss. Stina Viola,Female,3.0,Third Class,S
 Palsson,Miss. Torborg Danira,Female,8.0,Third Class,S
 Palsson,Mrs. Nils (Alma Cornelia Berglund),Female,29.0,Third Class,S
@@ -926,7 +633,6 @@ Panula,Master. Urho Abraham,Male,2.0,Third Class,S
 Panula,Mr. Ernesti Arvid,Male,16.0,Third Class,S
 Panula,Mr. Jaako Arnold,Male,14.0,Third Class,S
 Panula,Mrs. Juha (Maria Emilia Ojala),Female,41.0,Third Class,S
-Parker,Mr. Clifford Richard,Male,28.0,Second Class,S
 Parkes,"Mr. Francis ""Frank""",Male,,Second Class,S
 Parr,Mr. William Henry Marsh,Male,,First Class,S
 Parrish,Mrs. (Lutie Davis),Female,50.0,Second Class,S
@@ -935,17 +641,10 @@ Pasic,Mr. Jakob,Male,21.0,Third Class,S
 Patchett,Mr. George,Male,19.0,Third Class,S
 Paulner,Mr. Uscher,Male,,Third Class,C
 Pavlovic,Mr. Stefo,Male,32.0,Third Class,S
-Payne,Mr. Vivian Ponsonby,Male,23.0,First Class,S
-Peacock,Master. Alfred Edward,Male,0.75,Third Class,S
-Peacock,Miss. Treasteall,Female,3.0,Third Class,S
-Peacock,Mrs. Benjamin (Edith Nile),Female,26.0,Third Class,S
-Pearce,Mr. Ernest,Male,,Third Class,S
 Pears,Mr. Thomas Clinton,Male,29.0,First Class,S
 Pears,Mrs. Thomas (Edith Wearne),Female,22.0,First Class,S
-Pedersen,Mr. Olaf,Male,,Third Class,S
 Peduzzi,Mr. Joseph,Male,,Third Class,S
 Pekoniemi,Mr. Edvard,Male,21.0,Third Class,S
-Peltomaki,Mr. Nikolai Johannes,Male,25.0,Third Class,S
 Penasco y Castellana,Mr. Victor de Satode,Male,18.0,First Class,C
 Penasco y Castellana,Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo),Female,17.0,First Class,C
 Pengelly,Mr. Frederick William,Male,19.0,Second Class,S
@@ -953,36 +652,25 @@ Perkin,Mr. John Henry,Male,22.0,Third Class,S
 Pernot,Mr. Rene,Male,,Second Class,C
 Perreault,Miss. Anne,Female,30.0,First Class,S
 Persson,Mr. Ernst Ulrik,Male,25.0,Third Class,S
-Peruschitz,Rev. Joseph Maria,Male,41.0,Second Class,S
-Peter,Master. Michael J,Male,,Third Class,C
 Peter,Miss. Anna,Female,,Third Class,C
 Peter,Mrs. Catherine (Catherine Rizk),Female,,Third Class,C
 Peters,Miss. Katie,Female,,Third Class,Q
-Petersen,Mr. Marius,Male,24.0,Third Class,S
 Petranec,Miss. Matilda,Female,28.0,Third Class,S
 Petroff,Mr. Nedelio,Male,19.0,Third Class,S
 Petroff,"Mr. Pastcho (""Pentcho"")",Male,,Third Class,S
 Petterson,Mr. Johan Emil,Male,25.0,Third Class,S
 Pettersson,Miss. Ellen Natalia,Female,18.0,Third Class,S
 Peuchen,Major. Arthur Godfrey,Male,52.0,First Class,S
-Phillips,Miss. Alice Frances Louisa,Female,21.0,Second Class,S
 Phillips,"Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Female,19.0,Second Class,S
-Phillips,Mr. Escott Robert,Male,43.0,Second Class,S
 Pickard,Mr. Berk (Berk Trembisky),Male,32.0,Third Class,S
 Pinsky,Mrs. (Rosa),Female,32.0,Second Class,S
 Plotcharsky,Mr. Vasil,Male,,Third Class,S
-Pokrnic,Mr. Mate,Male,17.0,Third Class,S
-Pokrnic,Mr. Tome,Male,24.0,Third Class,S
 Ponesell,Mr. Martin,Male,34.0,Second Class,S
-Portaluppi,Mr. Emilio Ilario Giuseppe,Male,30.0,Second Class,C
 Porter,Mr. Walter Chamberlain,Male,47.0,First Class,S
 Potter,Mrs. Thomas Jr (Lily Alexenia Wilson),Female,56.0,First Class,C
-Pulbaum,Mr. Franz,Male,27.0,Second Class,C
 Quick,Miss. Phyllis May,Female,2.0,Second Class,S
-Quick,Miss. Winifred Vera,Female,8.0,Second Class,S
 Quick,Mrs. Frederick Charles (Jane Richards),Female,33.0,Second Class,S
 Radeff,Mr. Alexander,Male,,Third Class,S
-Rasmussen,Mrs. (Lena Jacobsen Solvang),Female,,Third Class,S
 Razi,Mr. Raihed,Male,,Third Class,C
 Reed,Mr. James George,Male,,Third Class,S
 Reeves,Mr. David,Male,36.0,Second Class,S
@@ -991,9 +679,6 @@ Renouf,Mr. Peter Henry,Male,34.0,Second Class,S
 Renouf,Mrs. Peter Henry (Lillian Jefferys),Female,30.0,Second Class,S
 Reuchlin,Jonkheer. John George,Male,38.0,First Class,S
 Reynaldo,Ms. Encarnacion,Female,28.0,Second Class,S
-Reynolds,Mr. Harold J,Male,21.0,Third Class,S
-Rheims,Mr. George Alexander Lucien,Male,,First Class,S
-Rice,Master. Albert,Male,10.0,Third Class,Q
 Rice,Master. Arthur,Male,4.0,Third Class,Q
 Rice,Master. Eric,Male,7.0,Third Class,Q
 Rice,Master. Eugene,Male,2.0,Third Class,Q
@@ -1004,88 +689,56 @@ Richards,Master. George Sibley,Male,0.83,Second Class,S
 Richards,Master. William Rowe,Male,3.0,Second Class,S
 Richards,Mrs. Sidney (Emily Hocking),Female,24.0,Second Class,S
 Ridsdale,Miss. Lucy,Female,50.0,Second Class,S
-Riihivouri,"Miss. Susanna Juhantytar Sanni""""",Female,22.0,Third Class,S
 Ringhini,Mr. Sante,Male,22.0,First Class,C
 Rintamaki,Mr. Matti,Male,35.0,Third Class,S
-Riordan,"Miss. Johanna Hannah""""",Female,,Third Class,Q
 Risien,Mr. Samuel Beard,Male,,Third Class,S
-Risien,Mrs. Samuel (Emma),Female,,Third Class,S
 Robbins,Mr. Victor,Male,,First Class,C
 Robert,Mrs. Edward Scott (Elisabeth Walton McMillan),Female,43.0,First Class,S
-Robins,Mr. Alexander A,Male,50.0,Third Class,S
 Robins,Mrs. Alexander A (Grace Charity Laury),Female,47.0,Third Class,S
 Roebling,Mr. Washington Augustus II,Male,31.0,First Class,S
-Rogers,Mr. Reginald Harry,Male,19.0,Second Class,S
 Rogers,Mr. William John,Male,,Third Class,S
 Romaine,"Mr. Charles Hallace (""Mr C Rolmane"")",Male,45.0,First Class,S
 Rommetvedt,Mr. Knud Paust,Male,,Third Class,S
 Rood,Mr. Hugh Roscoe,Male,,First Class,S
-Rosblom,Miss. Salli Helena,Female,2.0,Third Class,S
 Rosblom,Mr. Viktor Richard,Male,18.0,Third Class,S
 Rosblom,Mrs. Viktor (Helena Wilhelmina),Female,41.0,Third Class,S
-Rosenbaum,Miss. Edith Louise,Female,33.0,First Class,C
-Rosenshine,"Mr. George (Mr George Thorne"")""",Male,46.0,First Class,C
 Ross,Mr. John Hugo,Male,36.0,First Class,C
-Roth,Miss. Sarah A,Female,,Third Class,S
 Rothes,the Countess. of (Lucy Noel Martha Dyer-Edwards),Female,33.0,First Class,S
-Rothschild,Mr. Martin,Male,55.0,First Class,C
 Rothschild,Mrs. Martin (Elizabeth L. Barrett),Female,54.0,First Class,C
 Rouse,Mr. Richard Henry,Male,50.0,Third Class,S
-Rowe,Mr. Alfred G,Male,33.0,First Class,S
 Rugg,Miss. Emily,Female,21.0,Second Class,S
 Rush,Mr. Alfred George John,Male,16.0,Third Class,S
-Ryan,Mr. Edward,Male,,Third Class,Q
 Ryan,Mr. Patrick,Male,,Third Class,Q
-Ryerson,Master. John Borie,Male,13.0,First Class,C
 Ryerson,Miss. Emily Borie,Female,18.0,First Class,C
 Ryerson,"Miss. Susan Parker ""Suzette""",Female,21.0,First Class,C
-Ryerson,Mr. Arthur Larned,Male,61.0,First Class,C
-Ryerson,Mrs. Arthur Larned (Emily Maria Borie),Female,48.0,First Class,C
 Saad,Mr. Amin,Male,,Third Class,C
 Saad,Mr. Khalil,Male,25.0,Third Class,C
-Saade,Mr. Jean Nassr,Male,,Third Class,C
 Saalfeld,Mr. Adolphe,Male,,First Class,S
 Sadlier,Mr. Matthew,Male,,Third Class,Q
-Sadowitz,Mr. Harry,Male,,Third Class,S
-Saether,Mr. Simon Sivertsen,Male,38.5,Third Class,S
 Sage,Master. Thomas Henry,Male,,Third Class,S
-Sage,Master. William Henry,Male,14.5,Third Class,S
-Sage,Miss. Ada,Female,,Third Class,S
 Sage,Miss. Constance Gladys,Female,,Third Class,S
 Sage,"Miss. Dorothy Edith ""Dolly""",Female,,Third Class,S
 Sage,Miss. Stella Anna,Female,,Third Class,S
 Sage,Mr. Douglas Bullen,Male,,Third Class,S
 Sage,Mr. Frederick,Male,,Third Class,S
 Sage,Mr. George John Jr,Male,,Third Class,S
-Sage,Mr. John George,Male,,Third Class,S
-Sage,Mrs. John (Annie Bullen),Female,,Third Class,S
 Sagesser,Mlle. Emma,Female,24.0,First Class,C
-Salander,Mr. Karl Johan,Male,24.0,Third Class,S
 Salkjelsvik,Miss. Anna Kristine,Female,21.0,Third Class,S
-Salomon,Mr. Abraham L,Male,,First Class,S
 Salonen,Mr. Johan Werner,Male,39.0,Third Class,S
-Samaan,Mr. Elias,Male,,Third Class,C
-Samaan,Mr. Hanna,Male,,Third Class,C
 Samaan,Mr. Youssef,Male,,Third Class,C
-Sandstrom,Miss. Beatrice Irene,Female,1.0,Third Class,S
 Sandstrom,Miss. Marguerite Rut,Female,4.0,Third Class,S
 Sandstrom,Mrs. Hjalmar (Agnes Charlotta Bengtsson),Female,24.0,Third Class,S
-Sap,Mr. Julius,Male,25.0,Third Class,S
 Saundercock,Mr. William Henry,Male,20.0,Third Class,S
 Sawyer,Mr. Frederick Charles,Male,24.5,Third Class,S
 Scanlan,Mr. James,Male,,Third Class,Q
-Schabert,Mrs. Paul (Emma Mock),Female,35.0,First Class,C
-Schmidt,Mr. August,Male,26.0,Second Class,S
 Sdycoff,Mr. Todor,Male,,Third Class,S
 Sedgwick,Mr. Charles Frederick Waddington,Male,25.0,Second Class,S
 Serepeca,Miss. Augusta,Female,30.0,First Class,C
 Seward,Mr. Frederic Kimber,Male,34.0,First Class,S
 Sharp,Mr. Percival James R,Male,27.0,Second Class,S
-Shaughnessy,Mr. Patrick,Male,,Third Class,Q
 Sheerlinck,Mr. Jan Baptist,Male,29.0,Third Class,S
 Shellard,Mr. Frederick William,Male,,Third Class,S
 Shelley,Mrs. William (Imanita Parrish Hall),Female,25.0,Second Class,S
-Shine,Miss. Ellen Natalia,Female,,Third Class,Q
 Shorney,Mr. Charles Joseph,Male,,Third Class,S
 Shutes,Miss. Elizabeth W,Female,40.0,First Class,S
 Silven,Miss. Lyyli Karoliina,Female,18.0,Second Class,S
@@ -1094,7 +747,6 @@ Silvey,Mr. William Baird,Male,50.0,First Class,S
 Silvey,Mrs. William Baird (Alice Munger),Female,39.0,First Class,S
 Simmons,Mr. John,Male,,Third Class,S
 Simonius-Blumer,Col. Oberst Alfons,Male,56.0,First Class,C
-Sincock,Miss. Maude,Female,20.0,Second Class,S
 Sinkkonen,Miss. Anna,Female,30.0,Second Class,S
 Sirayanian,Mr. Orsen,Male,22.0,Third Class,C
 Sirota,Mr. Maurice,Male,,Third Class,S
@@ -1117,43 +769,25 @@ Smart,Mr. John Montgomery,Male,56.0,First Class,S
 Smiljanic,Mr. Mile,Male,,Third Class,S
 Smith,Miss. Marion Elsie,Female,40.0,Second Class,S
 Smith,Mr. James Clinch,Male,56.0,First Class,C
-Smith,Mr. Lucien Philip,Male,24.0,First Class,S
 Smith,Mr. Richard William,Male,,First Class,S
 Smith,Mr. Thomas,Male,,Third Class,Q
-Smith,Mrs. Lucien Philip (Mary Eloise Hughes),Female,18.0,First Class,S
-Smyth,Miss. Julia,Female,,Third Class,Q
-Snyder,Mr. John Pillsbury,Male,24.0,First Class,S
-Snyder,Mrs. John Pillsbury (Nelle Stevenson),Female,23.0,First Class,S
 Sobey,Mr. Samuel James Hayden,Male,25.0,Second Class,S
 Soholt,Mr. Peter Andreas Lauritz Andersen,Male,19.0,Third Class,S
 Somerton,Mr. Francis William,Male,30.0,Third Class,S
-Spector,Mr. Woolf,Male,,Third Class,S
-Spedden,Master. Robert Douglas,Male,6.0,First Class,C
-Spedden,Mr. Frederic Oakley,Male,45.0,First Class,C
 Spedden,Mrs. Frederic Oakley (Margaretta Corning Stone),Female,40.0,First Class,C
-Spencer,Mr. William Augustus,Male,57.0,First Class,C
 Spencer,Mrs. William Augustus (Marie Eugenie),Female,,First Class,C
-Spinner,Mr. Henry John,Male,32.0,Third Class,S
 Stahelin-Maeglin,Dr. Max,Male,32.0,First Class,C
 Staneff,Mr. Ivan,Male,,Third Class,S
 Stankovic,Mr. Ivan,Male,33.0,Third Class,C
 Stanley,Miss. Amy Zillah Elsie,Female,23.0,Third Class,S
 Stanley,Mr. Edward Roland,Male,21.0,Third Class,S
-Stanton,Mr. Samuel Ward,Male,41.0,Second Class,C
 Stead,Mr. William Thomas,Male,62.0,First Class,S
-Stengel,Mr. Charles Emil Henry,Male,54.0,First Class,C
-Stengel,Mrs. Charles Emil Henry (Annie May Morris),Female,43.0,First Class,C
 Stephenson,Mrs. Walter Bertram (Martha Eustis),Female,52.0,First Class,C
 Stewart,Mr. Albert A,Male,,First Class,C
-Stokes,Mr. Philip Joseph,Male,25.0,Second Class,S
 Stone,Mrs. George Nelson (Martha Evelyn),Female,62.0,First Class,
-Storey,Mr. Thomas,Male,60.5,Third Class,S
 Stoytcheff,Mr. Ilia,Male,19.0,Third Class,S
 Strandberg,Miss. Ida Sofia,Female,22.0,Third Class,S
 Stranden,Mr. Juho,Male,31.0,Third Class,S
-Straus,Mr. Isidor,Male,67.0,First Class,S
-Straus,Mrs. Isidor (Rosalie Ida Blun),Female,63.0,First Class,S
-Strilic,Mr. Ivan,Male,27.0,Third Class,S
 Strom,Miss. Telma Matilda,Female,2.0,Third Class,S
 Strom,Mrs. Wilhelm (Elna Matilda Persson),Female,29.0,Third Class,S
 Sunderland,Mr. Victor Francis,Male,16.0,Third Class,S
@@ -1161,27 +795,18 @@ Sundman,Mr. Johan Julian,Male,44.0,Third Class,S
 Sutehall,Mr. Henry Jr,Male,25.0,Third Class,S
 Sutton,Mr. Frederick,Male,61.0,First Class,S
 Svensson,Mr. Johan,Male,74.0,Third Class,S
-Svensson,Mr. Johan Cervin,Male,14.0,Third Class,S
 Svensson,Mr. Olof,Male,24.0,Third Class,S
-Swane,Mr. George,Male,18.5,Second Class,S
-Sweet,Mr. George Frederick,Male,14.0,Second Class,S
 Swift,Mrs. Frederick Joel (Margaret Welles Barron),Female,48.0,First Class,S
 Taussig,Miss. Ruth,Female,18.0,First Class,S
 Taussig,Mr. Emil,Male,52.0,First Class,S
 Taussig,Mrs. Emil (Tillie Mandelbaum),Female,39.0,First Class,S
 Taylor,Mr. Elmer Zebley,Male,48.0,First Class,S
 Taylor,Mrs. Elmer Zebley (Juliet Cummins Wright),Female,,First Class,S
-Tenglin,Mr. Gunnar Isidor,Male,25.0,Third Class,S
 Thayer,Mr. John Borland,Male,49.0,First Class,C
 Thayer,Mr. John Borland Jr,Male,17.0,First Class,C
 Thayer,Mrs. John Borland (Marian Longstreth Morris),Female,39.0,First Class,C
 Theobald,Mr. Thomas Leonard,Male,34.0,Third Class,S
 Thomas,Master. Assad Alexander,Male,0.42,Third Class,C
-Thomas,Mr. Charles P,Male,,Third Class,C
-Thomas,Mr. John,Male,,Third Class,C
-Thomas,Mr. Tannous,Male,,Third Class,C
-Thomas,"Mrs. Alexander (Thamine Thelma"")""",Female,16.0,Third Class,C
-Thomson,Mr. Alexander Morrison,Male,,Third Class,S
 Thorne,Mrs. Gertrude Maybelle,Female,,First Class,C
 Thorneycroft,Mr. Percival,Male,,Third Class,S
 Thorneycroft,Mrs. Percival (Florence Kate White),Female,,Third Class,S
@@ -1191,16 +816,12 @@ Todoroff,Mr. Lalio,Male,,Third Class,S
 Tomlin,Mr. Ernest Portage,Male,30.5,Third Class,S
 Toomey,Miss. Ellen,Female,50.0,Second Class,S
 Torber,Mr. Ernst William,Male,44.0,Third Class,S
-Torfa,Mr. Assad,Male,,Third Class,C
 Tornquist,Mr. William Henry,Male,25.0,Third Class,S
 Toufik,Mr. Nakli,Male,,Third Class,C
-Touma,Master. Georges Youssef,Male,7.0,Third Class,C
-Touma,Miss. Maria Youssef,Female,9.0,Third Class,C
 Touma,Mrs. Darwis (Hanne Youssef Razi),Female,29.0,Third Class,C
 Troupiansky,Mr. Moses Aaron,Male,23.0,Second Class,S
 Trout,Mrs. William H (Jessie L),Female,28.0,Second Class,S
 Troutt,"Miss. Edwina Celia ""Winnie""",Female,27.0,Second Class,S
-Tucker,Mr. Gilbert Milligan Jr,Male,31.0,First Class,C
 Turcin,Mr. Stjepan,Male,36.0,Third Class,S
 Turja,Miss. Anna Sofia,Female,18.0,Third Class,S
 Turkula,Mrs. (Hedwig),Female,63.0,Third Class,S
@@ -1216,74 +837,42 @@ Vande Walle,Mr. Nestor Cyriel,Male,28.0,Third Class,S
 Vanden Steen,Mr. Leo Peter,Male,28.0,Third Class,S
 Vander Cruyssen,Mr. Victor,Male,47.0,Third Class,S
 Vander Planke,Miss. Augusta Maria,Female,18.0,Third Class,S
-Vander Planke,Mr. Julius,Male,31.0,Third Class,S
 Vander Planke,Mr. Leo Edmondus,Male,16.0,Third Class,S
 Vander Planke,Mrs. Julius (Emelia Maria Vandemoortele),Female,31.0,Third Class,S
-Vartanian,Mr. David,Male,22.0,Third Class,C
-Veal,Mr. James,Male,40.0,Second Class,S
-Vendel,Mr. Olof Edvin,Male,20.0,Third Class,S
 Vestrom,Miss. Hulda Amanda Adolfina,Female,14.0,Third Class,S
 Vovk,Mr. Janko,Male,22.0,Third Class,S
 Waelens,Mr. Achille,Male,22.0,Third Class,S
-Walcroft,Miss. Nellie,Female,31.0,Second Class,S
 Walker,Mr. William Anderson,Male,47.0,First Class,S
 Ward,Miss. Anna,Female,35.0,First Class,C
-Ware,Mr. Frederick,Male,,Third Class,S
-Ware,Mr. John James,Male,30.0,Second Class,S
-Ware,Mr. William Jeffery,Male,23.0,Second Class,S
-Ware,Mrs. John James (Florence Louise Long),Female,31.0,Second Class,S
-Warren,Mr. Charles William,Male,,Third Class,S
-Warren,Mr. Frank Manley,Male,64.0,First Class,C
 Warren,Mrs. Frank Manley (Anna Sophia Atkinson),Female,60.0,First Class,C
 Watson,Mr. Ennis Hastings,Male,,Second Class,S
-Watt,Miss. Bertha J,Female,12.0,Second Class,S
 Watt,"Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",Female,40.0,Second Class,S
 Webber,Miss. Susan,Female,32.5,Second Class,S
 Webber,Mr. James,Male,,Third Class,S
 Weir,Col. John,Male,60.0,First Class,S
-Weisz,Mr. Leopold,Male,27.0,Second Class,S
 Weisz,Mrs. Leopold (Mathilde Francoise Pede),Female,29.0,Second Class,S
-Wells,Master. Ralph Lester,Male,2.0,Second Class,S
 Wells,Miss. Joan,Female,4.0,Second Class,S
-Wells,"Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",Female,29.0,Second Class,S
-Wenzel,Mr. Linhart,Male,32.5,Third Class,S
-West,Miss. Barbara J,Female,0.92,Second Class,S
 West,Miss. Constance Mirium,Female,5.0,Second Class,S
 West,Mr. Edwy Arthur,Male,36.0,Second Class,S
 West,Mrs. Edwy Arthur (Ada Mary Worth),Female,33.0,Second Class,S
-Whabee,Mrs. George Joseph (Shawneene Abi-Saab),Female,38.0,Third Class,C
 Wheadon,Mr. Edward H,Male,66.0,Second Class,S
-Wheeler,"Mr. Edwin Frederick""""",Male,,Second Class,S
 White,Mr. Percival Wayland,Male,54.0,First Class,S
 White,Mr. Richard Frasar,Male,21.0,First Class,S
-White,Mrs. John Stuart (Ella Holmes),Female,55.0,First Class,C
 Wick,Miss. Mary Natalie,Female,31.0,First Class,S
-Wick,Mr. George Dennick,Male,57.0,First Class,S
 Wick,Mrs. George Dennick (Mary Hitchcock),Female,45.0,First Class,S
 Widegren,Mr. Carl/Charles Peter,Male,51.0,Third Class,S
-Widener,Mr. George Dunton,Male,50.0,First Class,C
 Widener,Mr. Harry Elkins,Male,27.0,First Class,C
-Widener,Mrs. George Dunton (Eleanor Elkins),Female,50.0,First Class,C
 Wiklund,Mr. Jakob Alfred,Male,18.0,Third Class,S
-Wiklund,Mr. Karl Johan,Male,21.0,Third Class,S
 Wilhelms,Mr. Charles,Male,31.0,Second Class,S
-Wilkes,Mrs. James (Ellen Needs),Female,47.0,Third Class,S
-Willard,Miss. Constance,Female,21.0,First Class,S
-Willer,"Mr. Aaron (Abi Weller"")""",Male,,Third Class,S
 Willey,Mr. Edward,Male,,Third Class,S
 Williams,Mr. Charles Duane,Male,51.0,First Class,C
 Williams,Mr. Charles Eugene,Male,,Second Class,S
 Williams,"Mr. Howard Hugh ""Harry""",Male,,Third Class,S
 Williams,Mr. Leslie,Male,28.5,Third Class,S
-Williams,Mr. Richard Norris II,Male,21.0,First Class,C
 Williams-Lambert,Mr. Fletcher Fellows,Male,,First Class,S
-Wilson,Miss. Helen Alice,Female,31.0,First Class,C
 Windelov,Mr. Einar,Male,21.0,Third Class,S
-Wirz,Mr. Albert,Male,27.0,Third Class,S
 Wiseman,Mr. Phillippe,Male,,Third Class,S
-Wittevrongel,Mr. Camille,Male,36.0,Third Class,S
 Woolner,Mr. Hugh,Male,,First Class,S
-Wright,Miss. Marion,Female,26.0,Second Class,S
 Wright,Mr. George,Male,62.0,First Class,S
 Yasbeck,Mr. Antoni,Male,27.0,Third Class,C
 Yasbeck,Mrs. Antoni (Selini Alexander),Female,15.0,Third Class,C
@@ -1294,17 +883,10 @@ Yousseff,Mr. Gerious,Male,,Third Class,C
 Yrois,"Miss. Henriette (""Mrs Harbeck"")",Female,24.0,Second Class,S
 Zabour,Miss. Hileni,Female,14.5,Third Class,C
 Zabour,Miss. Thamine,Female,,Third Class,C
-Zakarian,Mr. Mapriededer,Male,26.5,Third Class,C
-Zakarian,Mr. Ortin,Male,27.0,Third Class,C
 Zimmerman,Mr. Leo,Male,29.0,Third Class,S
-de Brito,Mr. Jose Joaquim,Male,32.0,Second Class,S
-de Messemaeker,Mr. Guillaume Joseph,Male,36.5,Third Class,S
 de Messemaeker,Mrs. Guillaume Joseph (Emma),Female,36.0,Third Class,S
 de Mulder,Mr. Theodore,Male,30.0,Third Class,S
 de Pelsmaeker,Mr. Alfons,Male,16.0,Third Class,S
 del Carlo,Mr. Sebastiano,Male,29.0,Second Class,C
-del Carlo,Mrs. Sebastiano (Argenia Genovesi),Female,24.0,Second Class,C
-van Billiard,Master. James William,Male,,Third Class,S
-van Billiard,Master. Walter John,Male,11.5,Third Class,S
 van Billiard,Mr. Austin Blyler,Male,40.5,Third Class,S
 van Melkebeke,Mr. Philemon,Male,,Third Class,S
