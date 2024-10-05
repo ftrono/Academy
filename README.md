@@ -1,2 +1,2 @@
 # Academy
-Materiale preparato per la Links AI &amp; ML Academy 2023
+Teaching material prepared for AI & ML Academy 2023
